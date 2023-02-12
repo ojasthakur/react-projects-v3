@@ -1,5 +1,6 @@
-import UseStateBasics from "./tutorial/01-useState/starter/04-useState-object";
+import UseStateBasics from "./tutorial/02-useEffect/starter/01-code-example";
 function App() {
+  
   return (
     <div className="container">
       <UseStateBasics />
